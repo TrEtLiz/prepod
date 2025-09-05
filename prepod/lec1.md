@@ -184,7 +184,35 @@
 3. История (сюжет и повествование)
 4. Механика (правила и действия)
 
-<!---Захуячить схему с горизонтом--->
+```mermaid
+flowchart TB
+    %% Горизонт видимости игрока
+    subgraph VISIBLE[Игрок видит]
+      direction TB
+      A[Эстетика]
+      R[Риторика]
+    end
+
+    subgraph HIDDEN[Игрок не видит]
+      direction TB
+      M[Механики]
+      T[Технологии]
+    end
+
+    %% Связи от центра "Игра"
+    C((Игра))
+    C --- A
+    C --- R
+    C --- M
+    C --- T
+
+    %% Визуальные подсказки
+    classDef seen stroke-width:2px,stroke:#2f855a,fill:#e6fffa;
+    classDef hidden stroke-width:2px,stroke:#a0aec0,fill:#f7fafc,color:#4a5568;
+
+    class A,R seen;
+    class M,T hidden;
+```
 
 **Space Invaders**(1978) - игра, которая положила начало жанру шутеров и стала одной из первых коммерчески успешных видеоигр. 
 
