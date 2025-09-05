@@ -207,6 +207,14 @@ flowchart TB
     C --- R
     C --- M
     C --- T
+    A --- R
+    A --- M
+    A --- T
+    R --- T
+    R --- M
+    M --- T
+    T --- A
+
 
     %% Визуальные подсказки
     classDef seen stroke-width:2px,stroke:#2f855a,fill:#e6fffa;
