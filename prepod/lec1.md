@@ -190,11 +190,13 @@ flowchart TB
     subgraph VISIBLE[Игрок видит]
       direction TB
       A[Эстетика]
-      R[Риторика]
+      R[История]
+      M[Механики]
     end
 
     subgraph HIDDEN[Игрок не видит]
       direction TB
+      R[История]
       M[Механики]
       T[Технологии]
     end
