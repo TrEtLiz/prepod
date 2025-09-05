@@ -185,43 +185,29 @@
 4. Механика (правила и действия)
 
 ```mermaid
+```mermaid
 flowchart TB
-    %% Горизонт видимости игрока
-    subgraph VISIBLE[Игрок видит]
-      direction TB
-      A[Эстетика]
-      R[История]
-      M[Механики]
-    end
-
-    subgraph HIDDEN[Игрок не видит]
-      direction TB
-      R[История]
-      M[Механики]
-      T[Технологии]
-    end
-
-    %% Связи от центра "Игра"
+    %% Центр
     C((Игра))
-    C --- A
-    C --- R
-    C --- M
-    C --- T
-    A --- R
-    A --- M
-    A --- T
-    R --- T
-    R --- M
-    M --- T
-    T --- A
 
+    %% Четыре направления
+    A[Эстетика]
+    R[Риторика]
+    T[Технологии]
+    M[Механики]
 
-    %% Визуальные подсказки
-    classDef seen stroke-width:2px,stroke:#2f855a,fill:#e6fffa;
-    classDef hidden stroke-width:2px,stroke:#a0aec0,fill:#f7fafc,color:#4a5568;
+    %% Расположение
+    C --> A
+    C --> R
+    C --> T
+    C --> M
 
-    class A,R,M seen;
-    class R,M,T hidden;
+    A <--> R
+    R <--> T
+    T <--> M
+    M <--> A
+    A <--> T
+    R <--> M
 ```
 
 **Space Invaders**(1978) - игра, которая положила начало жанру шутеров и стала одной из первых коммерчески успешных видеоигр. 
