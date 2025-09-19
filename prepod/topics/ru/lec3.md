@@ -133,8 +133,7 @@ F --> G[Физиология 🍔]
 ```mermaid
 graph LR
 A[Achievers 🏆] --- B[Explorers 🧭]
-A --- C[Killers ⚔️]
-B --- D[Socializers 💬]
+C[Killers ⚔️] --- D[Socializers 💬]
 ```
 ### Дополнительные Удовольствия*
 - Ожидание
