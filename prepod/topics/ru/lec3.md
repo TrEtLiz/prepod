@@ -183,8 +183,8 @@ quadrantChart
     title "Типология игроков по Бартлу"
     x-axis "Игроки" --> "Мир"
     y-axis "Взаимодействие" --> "Действие"
-    quadrant-1 "Achievers 🏆"
-    quadrant-2 "Killers ⚔️"
+    quadrant-1 "Killers ⚔️"
+    quadrant-2 "Achievers 🏆"
     quadrant-3 "Socializers 💬"
     quadrant-4 "Explorers 🧭"
 ```
