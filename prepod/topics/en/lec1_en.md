@@ -9,7 +9,6 @@ A game designer is a specialist who makes decisions not only about the rules of 
 > [!Note]
 > **Gameplay experience** is the set of emotions and impressions a player receives while interacting with the game. This is the ultimate goal of design.
 
-
 ## Core Competencies of a Game Designer
 
 ### 1. Management and Communication Skills
@@ -23,7 +22,6 @@ Without these skills, ideas stay on paper. Game designers often act as the bridg
 > [!Tip]
 > The ability to present ideas is crucial: it’s not enough to come up with a fun mechanic, you also need to convince the team that it’s worth building.
 
-
 ### 2. Artistic Disciplines
 
 * Basics of visual art (sketching, 3D modeling).
@@ -36,7 +34,6 @@ A game is a visual and audio work. Atmosphere and aesthetics directly affect how
 > [!Important]
 > Even a simple mechanic can shine when presented in an expressive artistic form. Example: “Flappy Bird” — a minimalist game with basic mechanics but striking visual and audio presentation.
 
-
 ### 3. Humanities and Social Sciences
 
 * Psychology (motivation, player behavior).
@@ -46,7 +43,6 @@ A game is a visual and audio work. Atmosphere and aesthetics directly affect how
 
 **Why it matters:**
 Games reflect society and culture. Understanding people and their motivations helps create not just mechanics, but entire worlds players want to live in.
-
 
 ### 4. Technical Foundation
 
@@ -61,7 +57,6 @@ Even the most creative idea is worthless if it can’t be implemented. A technic
 > [!WARNING]
 > Lack of technical knowledge often leads to “impossible” ideas and conflicts within the team.
 
-
 ### 5. Scientific Knowledge
 
 * Math and statistics — balancing, probabilities, random event generation.
@@ -73,7 +68,6 @@ Even fictional worlds must follow internal logic, otherwise players won’t beli
 
 > [!Tip]
 > In the “Minecraft” series, block physics are simplified, but internally consistent. This makes the world convincing.
-
 
 ### 6. Creativity and Personal Experience
 
@@ -87,7 +81,6 @@ Game design is art as much as it is engineering. Creativity and lived experience
 
 > [!Important]
 > The player’s experience is the ultimate result of the game designer’s work. All knowledge and skills serve this purpose.
-
 
 ## Summary
 
@@ -105,36 +98,34 @@ Game designer competencies can be grouped into six blocks:
 **Principles of Game Design:**
 
 1. “I make games for people like me.”  
-   - You can’t be sure others share your tastes.  
-   - No defined target audience.  
-   - The bigger the team, the harder it is to align opinions.  
-     + But this allows something truly unique to be created.
+   * You can’t be sure others share your tastes.  
+   * No defined target audience.  
+   * The bigger the team, the harder it is to align opinions.  
+     * But this allows something truly unique to be created.
 
 2. “Personal opinion alone can’t be trusted.”  
-   - Constant playtesting is impossible.  
-   - You can’t please everyone.  
-   - True evaluation is only possible at the end of development.  
-     + This opens the door to capturing a large audience.
+   * Constant playtesting is impossible.  
+   * You can’t please everyone.  
+   * True evaluation is only possible at the end of development.  
+     * This opens the door to capturing a large audience.
 
 3. Combining both principles.  
-   - Together, they balance out each other’s weaknesses.
-
+   * Together, they balance out each other’s weaknesses.
 
 ## How to Create Game Experiences
 
 1. Keep a personal diary and analyze:  
-   - Write down emotions and impressions from real life.  
-   - Analyze what exactly caused them.  
+   * Write down emotions and impressions from real life.  
+   * Analyze what exactly caused them.  
 2. Add subtle atmospheric elements to games:  
-   - Sounds, music, visual effects.  
-   - Small details that make the world feel alive.  
-   - Easter eggs, references, hidden bonuses.  
+   * Sounds, music, visual effects.  
+   * Small details that make the world feel alive.  
+   * Easter eggs, references, hidden bonuses.  
 3. Pay attention to everything around you in daily life.  
 4. Practice describing and recording scenes in the moment.  
 5. Learn from others’ experiences:  
-   - Read books, watch films, play games.  
-   - Analyze what makes them engaging.
-
+   * Read books, watch films, play games.  
+   * Analyze what makes them engaging.
 
 ### Brainstorming
 
@@ -142,33 +133,34 @@ Game designer competencies can be grouped into six blocks:
 > **Brainstorming** is a method of generating ideas where participants freely share any thoughts without criticism. The goal is to create as many options as possible.
 
 *Tips for effective brainstorming:*
-- Write down all ideas, even strange ones.
-- Don’t criticize during the generation stage.
-- Use a large sheet or board to visualize ideas.
-- Make quick sketches or diagrams.  
-- Use props (toys, models, figurines).  
-- Change environments (outdoors, cafés).  
-- Assign someone to record everything.  
-- Add humor and silly ideas.  
-- Look for inspiration in other fields.  
-- Challenge all assumptions.  
-- Mix and match categories.  
-- Talk to a “smart person” (even yourself).  
-- Keep team spirit high.  
-- Organize sessions properly.  
-- Let go of bad ideas quickly.  
-- Avoid overly pedantic or narrow-minded participants.
+
+* Write down all ideas, even strange ones.
+* Don’t criticize during the generation stage.
+* Use a large sheet or board to visualize ideas.
+* Make quick sketches or diagrams.  
+* Use props (toys, models, figurines).  
+* Change environments (outdoors, cafés).  
+* Assign someone to record everything.  
+* Add humor and silly ideas.  
+* Look for inspiration in other fields.  
+* Challenge all assumptions.  
+* Mix and match categories.  
+* Talk to a “smart person” (even yourself).  
+* Keep team spirit high.  
+* Organize sessions properly.  
+* Let go of bad ideas quickly.  
+* Avoid overly pedantic or narrow-minded participants.
 
 *Filters for selecting ideas:*
-- Artistic appeal (does it feel right?).  
-- Technical feasibility.  
-- Fit with the target audience.  
-- Innovation.  
-- Business and marketing value.  
-- Budget and deadlines.  
-- Social impact.  
-- Playtesting results.
 
+* Artistic appeal (does it feel right?).  
+* Technical feasibility.  
+* Fit with the target audience.  
+* Innovation.  
+* Business and marketing value.  
+* Budget and deadlines.  
+* Social impact.  
+* Playtesting results.
 
 ### What a Game is Made Of
 
@@ -176,12 +168,13 @@ Game designer competencies can be grouped into six blocks:
 > **A game** is a system where the player interacts with a set of rules and mechanics to achieve goals, while also experiencing fun and emotion.
 
 A game consists of 4 main components:
+
 1. Technology (engine and platform)  
 2. Aesthetics (graphics and design)  
 3. Story (narrative)  
 4. Mechanics (rules and actions)  
-    
-![](../../_images/01/01_game_scheme.jpg)
+
+![Game design components diagram](../../_images/01/01_game_scheme.jpg)
 
 **Space Invaders** (1978) — a landmark shooter and one of the first commercially successful video games.  
 

@@ -1,11 +1,13 @@
 # Creating Any Software
 
 ## Introduction
+
 Software development is not just about writing code, but about an entire system of approaches and methodologies. The choice of approach affects team efficiency, product quality, and adaptability to change.  
 
 For a game designer, understanding these models is important because games are developed like any other software — but with the added complexity of emotional and artistic content. Some studios use classical methodologies (like **Waterfall** in AAA projects), while others use agile ones (like **Agile** in mobile and live-service games).  
 
-## Types of Software Development:
+## Types of Software Development
+
 1. **Waterfall**
    - Clear plan, stages, deadlines  
    - Best for projects with well-defined requirements  
@@ -40,6 +42,7 @@ For a game designer, understanding these models is important because games are d
    - **Cons**: risks insufficient architectural design  
 
 ## Choosing an Approach
+
 - Assess project requirements  
 - Team size and experience  
 - Flexibility and adaptability  
@@ -52,10 +55,11 @@ In this lecture, we’ll focus on **Waterfall**, **Spiral Model**, and **Agile**
 > [!NOTE]  
 > Waterfall is a traditional model where the process is divided into sequential phases. Each must be completed before the next begins. Backtracking is minimal.
 
-![](../../_images/02/02_waterfall.png)
+![Waterfall model diagram](../../_images/02/02_waterfall.png)
 
 **Phases of Waterfall:**
-1. System requirements — define functional and non-functional requirements, documentation.  
+
+1. System requirements — define functional and non-functional requirements, documentation.
 2. Software requirements — analyze requirements, create specifications.  
 3. Analysis — system architecture, interface design.  
 4. Design — prototypes, detailed architecture.  
@@ -71,7 +75,7 @@ Early Blizzard practices (e.g., “Diablo II”) — heavy documentation, long c
 > [!NOTE]  
 > The Spiral Model is a risk-driven iterative process. Each loop of the spiral is a mini-project: goals are refined, risks identified and reduced (often through prototyping), an increment of the product is created and verified, and then the next iteration is planned.
 
-![](../../_images/02/02_spiral.png)
+![Spiral model diagram](../../_images/02/02_spiral.png)
 
 Four quadrants of each loop:
 
@@ -81,11 +85,13 @@ Four quadrants of each loop:
 4. Planning the next iteration — assess results, document decisions, plan work and budget.  
 
 **When to use:**  
+
 - Large/long-term projects with high uncertainty.  
 - High technical risks (custom engine, performance, networking, new platform).  
 - Strict quality and safety requirements, need for early prototypes.  
 
 **Artifacts:**  
+
 - Risk log, experiment/prototype reports, exit criteria.  
 - Product increment, verification report, next cycle plan.  
 
@@ -104,7 +110,7 @@ Works well for projects with innovative mechanics and technical novelty: start w
 **Microhistory of Agile (2001):**  
 In 2001, 17 software developers gathered in Snowmass, Colorado, to discuss alternatives to traditional software development. They created the “Agile Manifesto,” defining four core values and twelve principles.
 
-![](../../_images/02/02_agile.png)
+![Agile development diagram](../../_images/02/02_agile.png)
 
 **12 Principles of Agile:**
 
@@ -121,7 +127,8 @@ In 2001, 17 software developers gathered in Snowmass, Colorado, to discuss alter
 11. Best architectures, requirements, and designs emerge from self-organizing teams.  
 12. Teams regularly reflect on effectiveness and adjust accordingly.  
 
-**Agile Implementation:**  
+**Agile Implementation:**
+
 1. Flexible goals (changes possible at all stages).  
 2. Prioritized backlog (functional and non-functional requirements).  
 3. Sprints (long-term goals broken into short cycles, max 1 month).  
@@ -132,7 +139,8 @@ In 2001, 17 software developers gathered in Snowmass, Colorado, to discuss alter
 **Example from the game industry:**  
 Live-service projects (e.g., “Fortnite”): frequent updates, seasonal events, quick reaction to metrics and feedback.
 
-**Tips for Effective Prototyping:**  
+**Tips for Effective Prototyping:**
+
 1. Each prototype must have a clear purpose.  
 2. Forget about quality.  
 3. Don’t get attached.  
@@ -163,4 +171,5 @@ Live-service projects (e.g., “Fortnite”): frequent updates, seasonal events,
 | Best for          | Large projects with fixed specs        | Large/long-term projects with uncertainty and risks | Live-service and indie projects         |
 
 ## Conclusion
+
 Choosing a development approach depends on many factors: team size and experience, project requirements, level of uncertainty and risk. Understanding different models helps game designers work effectively with dev teams, adapt to change, and create quality games.
