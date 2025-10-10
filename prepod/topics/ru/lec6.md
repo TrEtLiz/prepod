@@ -52,29 +52,73 @@
 <details>
   <summary>Показать изображение (спойлер)</summary>
 
-  <!-- пустая строка обязательна, иначе GitHub глючит с разметкой -->
-  
-  ![Моё изображение](..//..//_images/06/06_vict_1.png)
+  ![Моё изображение](..//..//_images/06/06_mikkie.jpg)
 </details>
 
 
 ![Силуэт 2](..//..//_images/06/06_vict_2.png)
 
+<details>
+  <summary>Показать изображение (спойлер)</summary>
+
+  ![Моё изображение](..//..//_images/06/06_Mario.jpg)
+</details>
+
 ![Силуэт 3](..//..//_images/06/06_vict_3.png)
+
+<details>
+  <summary>Показать изображение (спойлер)</summary>
+
+  ![Моё изображение](..//..//_images/06/06_Vinnie.png)
+</details>
 
 ![Силуэт 4](..//..//_images/06/06_vict_4.png)
 
+<details>
+  <summary>Показать изображение (спойлер)</summary>
+
+  ![Моё изображение](..//..//_images/06/06_Mulan.png)
+</details>
+
 ![Силуэт 5](..//..//_images/06/06_vict_5.png) 
+
+<details>
+  <summary>Показать изображение (спойлер)</summary>
+
+  ![Моё изображение](..//..//_images/06/06_thor.jpg)
+</details>
 
 ![Силуэт 6](..//..//_images/06/06_vict_6.png)
 
+<details>
+  <summary>Показать изображение (спойлер)</summary>
+
+  ![Моё изображение](..//..//_images/06/06_master_yoda.jpg)
+</details>
+
 ![Силуэт 7](..//..//_images/06/06_vict_7.png) 
+
+<details>
+  <summary>Показать изображение (спойлер)</summary>
+
+  ![Моё изображение](..//..//_images/06/06_Ezio.jpg)
+</details>
 
 ![Силуэт 8](..//..//_images/06/06_vict_8.png) 
 
-![Силуэт 9](..//..//_images/06/06_vict_9.png)
+<details>
+  <summary>Показать изображение (спойлер)</summary>
 
-![Силуэт 10](..//..//_images/06/06_vict_10.png)
+  ![Моё изображение](..//..//_images/06/06_Merida.jpg)
+</details>
+
+![Силуэт 9](..//..//_images/06/06_vict_10.png)
+
+<details>
+  <summary>Показать изображение (спойлер)</summary>
+  
+  ![Моё изображение](..//..//_images/06/06_arrow.png)
+</details>
 
 ## Цвет и текстура
 
