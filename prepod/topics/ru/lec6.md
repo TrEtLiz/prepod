@@ -52,7 +52,7 @@
 <details>
   <summary>Показать изображение (спойлер)</summary>
 
-  ![Моё изображение](..//..//_images/06/06_mikkie.jpg)
+  ![Моё изображение](..//..//_images/06/06_Mikkie.jpg)
 </details>
 
 
@@ -85,7 +85,7 @@
 <details>
   <summary>Показать изображение (спойлер)</summary>
 
-  ![Моё изображение](..//..//_images/06/06_thor.jpg)
+  ![Моё изображение](..//..//_images/06/06_Thor.jpg)
 </details>
 
 ![Силуэт 6](..//..//_images/06/06_vict_6.png)
