@@ -93,9 +93,9 @@ Your lectures present a high-quality, well-structured Game Design course. The ma
 - "Game Feel: A Game Designer's Guide" by Steve Swink
 
 **Online Resources:**
-- GDC Vault (gdcvault.com)
+- [GDC Vault](https://gdcvault.com)
 - Game Maker's Toolkit (YouTube)
-- Game Developer (gamedeveloper.com)
+- [Game Developer](https://gamedeveloper.com)
 - Extra Credits (YouTube)
 
 **Tools for Practice:**
